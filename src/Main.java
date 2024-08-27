@@ -5,19 +5,19 @@ public class Main {
         String NomePessoa = "Cleiton";
 
         /*
-        * >  Maior
-        * >= Maior igual
-        * <  Menor
-        * <= Menor igual
-        * == é igual
-        * != é diferente
-        * equal compara Textos
-        **/
+         * >  Maior
+         * >= Maior igual
+         * <  Menor
+         * <= Menor igual
+         * == é igual
+         * != é diferente
+         * equal compara Textos
+         **/
 
         if (IdadePessoa > 21){
-
             System.out.println("é maior que 21");
-        }else {
+
+        } else {
             System.out.println("Não é maior");
         }
 
